@@ -1,0 +1,73 @@
+.common{
+    background-color: rgb(240, 255, 248);
+    border: rgb(5, 0, 106) 2px solid;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height: 50px;
+}
+
+.mainbody1 {
+    top: 65px; 
+    left: 5px;
+    right: 5px;
+    height: 254px; 
+}
+
+.mainbody2 {
+    bottom: 65px; 
+    width: 650px;
+    right: 5px;
+    height: 400px; 
+}
+
+.mainbody3 {
+    bottom: 65px; 
+    left: 5px;
+    width: 780px;
+    height: 400px; 
+}
+
+.footer{
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 50px;
+}
+
+body{
+    background-color: rgb(124, 124, 174);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.common.header h1 {
+    display: inline; 
+    margin-left: 200px;
+
+}
+
+ol{
+    font-weight: bold;
+}
+
+ul{
+    font-weight: normal;
+}
+
+.swedishflagimg{
+    position: absolute;
+    right: 30px;
+    top: 45px;
+}
+
+.ytvideo{
+    position: absolute;
+    left: 125px;
+    bottom: 15px;
+
+}
